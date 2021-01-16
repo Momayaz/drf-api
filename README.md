@@ -30,15 +30,7 @@ Version: **_1.0_**
 ---
 ```
 
-### author
 
-Authors name
-
-```markdown
----
-author: Ahmad Swedani
----
-```
 
 ### location
 
